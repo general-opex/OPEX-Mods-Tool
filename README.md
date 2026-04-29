@@ -1,5 +1,6 @@
-# OPEX-Mods-Tool
-🚀 **OPEX Mods Tool – v0.5 Stable**
+# 🚀 OPEX Mods Tool – v0.6 Stable
+
+Restore a config.blk fonction add/remove a enable_mod:b=yes
 
 Hi everyone 👋
 
