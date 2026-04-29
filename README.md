@@ -1,4 +1,4 @@
-**#New buil v0. Stable change :
+**#New buil v0.7 Stable change :
 New interface UI
 Fix bug and code improved**
 
