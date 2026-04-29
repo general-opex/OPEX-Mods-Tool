@@ -1,3 +1,7 @@
+**#New buil v0. Stable change :
+New interface UI
+Fix bug and code improved**
+
 #New buil v0.6 Stable change :
 **Restore a config.blk fonction add/remove a enable_mod:b=yes**
 
