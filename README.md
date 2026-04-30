@@ -2,8 +2,8 @@
 New dark theme
 new button for total clear mods ( mod folder and config command line deleted automaticly)**
 
+<img width="907" height="655" alt="Capture d&#39;écran 2026-04-30 122335" src="https://github.com/user-attachments/assets/801e4e82-ed3c-4369-a1b7-f3a3e766846c" />
 
-<img width="901" height="649" alt="Capture d&#39;écran 2026-04-30 101925" src="https://github.com/user-attachments/assets/b96834ea-79fd-45cd-80ad-34055efed377" />
 
 Hi everyone 👋
 
