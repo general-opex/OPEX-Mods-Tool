@@ -5,11 +5,11 @@ new button for total clear mods ( mod folder and config command line deleted aut
 <img width="907" height="655" alt="Capture d&#39;écran 2026-04-30 122335" src="https://github.com/user-attachments/assets/801e4e82-ed3c-4369-a1b7-f3a3e766846c" />
 
 
-# 🛠️ OPEX Mods Tool — V0.8 Stable
+# 🛠️ OPEX Mods Tool — 
 
 Hey everyone!
 
-I'm happy to share **OPEX Mods Tool V0.8**, a free tool to easily manage your War Thunder mods without having to manually edit files or dig through folders.
+I'm happy to share **OPEX Mods Tool**, a free tool to easily manage your War Thunder mods without having to manually edit files or dig through folders.
 
 ---
 
