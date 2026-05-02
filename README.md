@@ -1,6 +1,6 @@
-**New 0.9 build:
-New dark theme
-new button for total clear mods ( mod folder and config command line deleted automaticly)**
+**New 1.0 build:
+Add icon doscord, YT, Patreon
+Add a confirmation for install mod.zip**
 
 <img width="901" height="651" alt="Capture d&#39;écran 2026-05-02 085521" src="https://github.com/user-attachments/assets/e2ca216a-6ff5-4384-9057-ae806fc9a5b5" />
 
