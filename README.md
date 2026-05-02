@@ -2,7 +2,7 @@
 New dark theme
 new button for total clear mods ( mod folder and config command line deleted automaticly)**
 
-<img width="907" height="655" alt="Capture d&#39;écran 2026-04-30 122335" src="https://github.com/user-attachments/assets/801e4e82-ed3c-4369-a1b7-f3a3e766846c" />
+<img width="901" height="651" alt="Capture d&#39;écran 2026-05-02 085521" src="https://github.com/user-attachments/assets/e2ca216a-6ff5-4384-9057-ae806fc9a5b5" />
 
 
 # 🛠️ OPEX Mods Tool — 
