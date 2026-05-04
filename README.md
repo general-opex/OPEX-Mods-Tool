@@ -1,8 +1,9 @@
-**New 1.0 build:
-Add icon doscord, YT, Patreon
-Add a confirmation for install mod.zip**
+**OPEX Mods Tool 1.1**
+-Add a readme on start
+-Logo War Thunder and Fmod added
 
-<img width="901" height="651" alt="Capture d&#39;écran 2026-05-02 085521" src="https://github.com/user-attachments/assets/e2ca216a-6ff5-4384-9057-ae806fc9a5b5" />
+<img width="1032" height="877" alt="Capture d&#39;écran 2026-05-04 094957" src="https://github.com/user-attachments/assets/c9b0fed0-7212-4e38-aa3a-0185102e54b4" />
+
 
 
 # 🛠️ OPEX Mods Tool — 
