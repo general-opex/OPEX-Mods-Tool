@@ -1,8 +1,8 @@
-**OPEX Mods Tool 1.1**
--Add a readme on start
--Logo War Thunder and Fmod added
+**OPEX Mods Tool 1.2**
+-UserSights folder button added 
 
-<img width="1032" height="877" alt="Capture d&#39;écran 2026-05-04 094957" src="https://github.com/user-attachments/assets/c9b0fed0-7212-4e38-aa3a-0185102e54b4" />
+<img width="903" height="653" alt="Capture d&#39;écran 2026-05-05 132539" src="https://github.com/user-attachments/assets/f7dd821d-8eca-4e7e-ae1f-bc7db32fc047" />
+
 
 
 
