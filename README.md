@@ -4,79 +4,85 @@
 <img width="903" height="653" alt="Capture d&#39;écran 2026-05-05 132539" src="https://github.com/user-attachments/assets/f7dd821d-8eca-4e7e-ae1f-bc7db32fc047" />
 
 
+# OPEX Mods Tool — V1.2 Stable
 
+## 🇬🇧 ENGLISH
 
-# 🛠️ OPEX Mods Tool — 
-
-Hey everyone!
-
-I'm happy to share **OPEX Mods Tool**, a free tool to easily manage your War Thunder mods without having to manually edit files or dig through folders.
-
----
-
-## 📋 Features
-
-### 📁 Folder Management
-- **Select Game Folder** — Select your War Thunder installation folder once. The tool remembers it automatically on the next launch.
-- **Open / Create Mod Folder** — Opens your `sound/mod` folder directly. If it doesn't exist yet, the tool offers to create it for you.
-- **Open Userskins Folder** — Quick access to your personal skins folder.
-
-### ⚙️ Config.blk
-- **Check config.blk** — Checks whether the `enable_mod:b=yes` line is active in your game config file. This is required for your mods to be loaded by the game.
-- **Add / Delete enable_mod:b=yes** — Enable or disable mods in one click, no need to open the file manually.
-
-### 📦 Mod Installation
-- **Select Mod (.zip)** — Pick a ZIP file from your computer. The tool automatically extracts the `.bank` files directly into your mod folder. If files already exist, it asks whether you want to replace them.
-- **Unreplaced files** — After installation, any files already in your mod folder that were not included in the ZIP are listed in orange so you know exactly what was left untouched.
-
-### ⬇️ Mod Downloads
-Click **Download OPEX Mod** to open a menu with direct links to the download pages:
-- **OPEX Mod** — The main sound mod
-- **Crew Pack FR** — French crew voices
-- **Crew Pack US** — American crew voices
-- **Crew Pack DE** — German crew voices
+**What is OPEX Mods Tool?**
+OPEX Mods Tool is a free, all-in-one utility designed for War Thunder players who use sound mods, skins and usersights. Instead of manually editing config files and digging through folders, everything is handled in a clean, intuitive interface — in one click.
 
 ---
 
-## 🚀 Getting Started
+**✨ Key Features**
 
-**1. Launch the tool**
-Double-click `OPEX Mods Tool.exe`.
+🗂 **Folder Management**
+Instantly access your mod, Userskins, and UserSights folders. The tool remembers all paths so you never have to search again.
 
-**2. Select your game folder**
-Click **Select Game Folder** and navigate to your War Thunder installation directory (usually `C:\Program Files\War Thunder` or via Steam).
-> ✔ The tool saves this path — you only need to do this once.
+⚙️ **Config.blk Manager**
+Check, enable, or disable `enable_mod:b=yes` in your War Thunder config with a single click — no text editor needed.
 
-**3. Enable mods in your config**
-Click **Check config.blk** to see if mods are enabled.
-If not, click **Add / Delete enable_mod:b=yes** and confirm.
+📦 **Mod Installer**
+Select a `.zip` mod file and the tool extracts it directly into the right folder. Handles file conflicts with a replace confirmation, and shows you exactly which files were left untouched.
 
-**4. Install a mod**
-- Download a mod by clicking **Download OPEX Mod** and choosing from the list.
-- Once the ZIP is downloaded, click **Select Mod (.zip)** and pick the file.
-- The tool installs everything into the correct folder automatically.
+⬇️ **Mod Download Menu**
+Built-in links to download the best OPEX sound mods:
+→ OPEX Mod · Crew Pack FR · Crew Pack US · Crew Pack DE
 
-**5. Launch War Thunder**
-Your mod is ready to go!
+🗑 **One-Click Cleanup**
+Remove all mods and reset your config in a single click with the "Delete All Mods & Config" button.
 
----
+🌐 **Bilingual Interface**
+Full English and French support — switch at any time. Language preference is saved automatically.
 
-## 🌐 Languages
-The interface is available in **English** and **French**. Click the **EN / FR** button in the top right corner to switch at any time.
+📖 **Built-in User Guide**
+A step-by-step guide opens on first launch to help new users get started quickly. Can be re-opened anytime via the "?" button.
 
 ---
 
-## 💻 Requirements
-- Windows 10 / 11
-- War Thunder installed
+**💻 Requirements**
+Windows 10 / 11 · War Thunder installed
+
+**🔗 Find us on**
+YouTube · Discord · Patreon
+
+---
+---
+
+## 🇫🇷 FRANÇAIS
+
+**C'est quoi OPEX Mods Tool ?**
+OPEX Mods Tool est un utilitaire gratuit tout-en-un pensé pour les joueurs War Thunder qui utilisent des mods sonores, skins et viseurs personnalisé. Fini l'édition manuelle de fichiers de config et la navigation dans des dossiers — tout se gère depuis une interface propre et intuitive, en un clic.
 
 ---
 
-*Thanks for your support! Feel free to share your feedback or suggestions.*
+**✨ Fonctionnalités principales**
 
-**— OPEX Mods Tool V0.8 Stable**
+🗂 **Gestion des dossiers**
+Accès instantané à vos dossiers mod, Userskins et UserSights. L'outil mémorise tous les chemins pour que vous n'ayez jamais à les rechercher.
 
-#changelog Build 0.8:
--New Dark Mod
--Progress Bar
--Download button with sub menu for opex mod, crew pack FR, US, DE
+⚙️ **Gestionnaire Config.blk**
+Vérifiez, activez ou désactivez `enable_mod:b=yes` dans votre config War Thunder en un seul clic — sans ouvrir le moindre éditeur de texte.
+
+📦 **Installateur de mods**
+Sélectionnez un fichier `.zip` et l'outil extrait automatiquement les fichiers dans le bon dossier. Gestion des conflits avec confirmation de remplacement, et affichage des fichiers non concernés.
+
+⬇️ **Menu de téléchargement**
+Liens intégrés pour télécharger les meilleurs mods sonores OPEX :
+→ OPEX Mod · Crew Pack FR · Crew Pack US · Crew Pack DE
+
+🗑 **Nettoyage en un clic**
+Supprimez tous les mods et réinitialisez votre config d'un seul clic avec le bouton "Supprimer tous les mods & config".
+
+🌐 **Interface bilingue**
+Support complet Français et Anglais — changez à tout moment. La préférence de langue est sauvegardée automatiquement.
+
+📖 **Guide d'utilisation intégré**
+Un guide pas à pas s'ouvre au premier lancement pour aider les nouveaux utilisateurs. Accessible à tout moment via le bouton "?".
+
+---
+
+**💻 Configuration requise**
+Windows 10 / 11 · War Thunder installé
+
+**🔗 Retrouvez-nous sur**
+YouTube · Discord · Patreon
