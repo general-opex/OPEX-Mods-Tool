@@ -1,6 +1,5 @@
-**OPEX Mods Tool 1.3**
+**OPEX Mods Tool 1.4**
 
--Menu list for lang and opex mod choice are improved
 
 <img width="900" height="649" alt="Capture d&#39;écran 2026-05-15 082841" src="https://github.com/user-attachments/assets/a27a2fb3-3f69-4fb4-a061-aaa34a1e82f9" />
 <img width="902" height="650" alt="Capture d&#39;écran 2026-05-15 082805" src="https://github.com/user-attachments/assets/efb470a0-aea1-49fd-855f-7357796a4359" />
