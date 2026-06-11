@@ -1,0 +1,99 @@
+# OPEX Mods Tool — Changelog
+
+---
+
+## 🇬🇧 ENGLISH
+
+### V1.5 Stable
+- **Resizable window** — The app window can now be resized freely. Minimum size is locked to the original dimensions so nothing gets cropped.
+- **Non-.bank file filtering** — When installing a mod from a ZIP, only `.bank` files are extracted. Any other file type (README, images, scripts...) is ignored and listed in a warning popup so you always know what was skipped.
+- **Help window resizable** — The "How to use" guide window is now also resizable.
+
+### V1.4 Stable
+- **Config saved in %APPDATA%** — The `config.json` file is now stored in `%APPDATA%\OPEXModsTool\` instead of the app folder. Fixes permission errors on protected installs (Program Files, etc.).
+
+### V1.3 Stable
+- **Language dropdown** — The EN/FR toggle is now a styled dropdown menu (`🌐 Language ▾`). Ready for new languages to be added in the future.
+- **Custom dropdown menus** — Both the Language and Download menus now use a fully custom-styled dropdown matching the app's dark Windows 11 theme.
+
+### V1.2 Stable
+- **UserSights folder** — New button to open the `UserSights` folder. On first click, the app explains the path and asks you to locate it manually. The path is then saved automatically.
+- **Language preference saved** — The app now remembers your chosen language between sessions.
+- **"How to use" guide** — Built-in guide opens automatically on first launch. Can be re-opened anytime via the `?` button. Includes a "Don't show again" checkbox.
+
+### V1.1 Stable
+- **Partner logos** — War Thunder and FMOD logos displayed at the bottom of the sidebar.
+- **Social icons** — YouTube, Discord and Patreon icons added below the logo (no background, image-based).
+- **Install confirmation** — A confirmation popup now appears before extracting a ZIP mod.
+
+### V1.0 Stable
+- **Delete All Mods & Config** — One-click button to remove the mod folder and disable `enable_mod:b=yes` from config.blk simultaneously.
+- **Windows 11 dark theme** — Full UI redesign with native Windows 11 dark colors and blue accent (`#0078d4`).
+- **Progress bar** — Visual progress indicator during mod installation.
+- **Colored log** — Textbox now displays green (✔), orange (⚠) and red (❌) messages.
+
+### V0.9 Stable
+- **Download menu** — Dropdown with direct links to OPEX Mod, Crew Pack FR, Crew Pack US, Crew Pack DE.
+- **Social buttons** — YouTube, Discord, Patreon text buttons added to sidebar.
+
+### V0.8 Stable
+- **Section labels** — DOSSIER, CONFIG.BLK and LOG section headers added to main panel.
+- **Status bar** — Version number and status displayed at the bottom of the window.
+
+### V0.7 Stable
+- **Colored textbox** — Replaced CTkTextbox with native tk.Text supporting colored output.
+- **Unreplaced files** — After install, files present in the mod folder but absent from the ZIP are listed in orange.
+
+### V0.6 Stable
+- **Mod installer** — Install a mod directly from a ZIP file with replace confirmation.
+- **Cross-platform folder opening** — Replaced `os.startfile()` with platform-aware `open_folder()`.
+- **Error handling** — File read/write operations now properly handled with try/except.
+
+---
+
+## 🇫🇷 FRANÇAIS
+
+### V1.5 Stable
+- **Fenêtre redimensionnable** — La fenêtre peut maintenant être agrandie librement. La taille minimale est verrouillée sur les dimensions d'origine pour éviter tout rognage.
+- **Filtrage des fichiers non-.bank** — Lors de l'installation d'un mod depuis un ZIP, seuls les fichiers `.bank` sont extraits. Tout autre type de fichier (README, images, scripts...) est ignoré et listé dans une popup d'avertissement.
+- **Fenêtre d'aide redimensionnable** — La fenêtre "Comment utiliser" est également redimensionnable.
+
+### V1.4 Stable
+- **Config dans %APPDATA%** — Le fichier `config.json` est maintenant stocké dans `%APPDATA%\OPEXModsTool\`. Corrige les erreurs de permissions sur les installations protégées (Program Files, etc.).
+
+### V1.3 Stable
+- **Menu déroulant des langues** — Le bouton EN/FR est remplacé par un menu déroulant stylisé (`🌐 Language ▾`). Prêt pour l'ajout de nouvelles langues.
+- **Menus déroulants custom** — Les menus Langue et Téléchargement utilisent désormais un menu entièrement personnalisé au style Windows 11 sombre.
+
+### V1.2 Stable
+- **Dossier UserSights** — Nouveau bouton pour ouvrir le dossier `UserSights`. Au premier clic, l'app explique le chemin et demande de le localiser manuellement. Le chemin est ensuite sauvegardé automatiquement.
+- **Langue mémorisée** — L'app retient désormais la langue choisie entre les sessions.
+- **Guide d'utilisation** — Guide intégré qui s'ouvre automatiquement au premier lancement. Accessible via le bouton `?`. Inclut une case "Ne plus afficher".
+
+### V1.1 Stable
+- **Logos partenaires** — Logos War Thunder et FMOD affichés en bas de la sidebar.
+- **Icônes sociales** — Icônes YouTube, Discord et Patreon ajoutées sous le logo (sans fond, basées sur des images PNG).
+- **Confirmation d'installation** — Une popup de confirmation apparaît avant l'extraction d'un mod ZIP.
+
+### V1.0 Stable
+- **Supprimer tous les mods & config** — Bouton unique pour supprimer le dossier mod et désactiver `enable_mod:b=yes` simultanément.
+- **Thème Windows 11 sombre** — Refonte complète de l'interface avec les couleurs Windows 11 et l'accent bleu (`#0078d4`).
+- **Barre de progression** — Indicateur visuel pendant l'installation d'un mod.
+- **Log coloré** — La textbox affiche désormais des messages en vert (✔), orange (⚠) et rouge (❌).
+
+### V0.9 Stable
+- **Menu de téléchargement** — Menu déroulant avec liens directs vers OPEX Mod, Crew Pack FR, Crew Pack US, Crew Pack DE.
+- **Boutons sociaux** — Boutons texte YouTube, Discord, Patreon ajoutés dans la sidebar.
+
+### V0.8 Stable
+- **Labels de sections** — En-têtes DOSSIER, CONFIG.BLK et LOG ajoutés dans le panneau principal.
+- **Barre de statut** — Numéro de version et statut affichés en bas de la fenêtre.
+
+### V0.7 Stable
+- **Textbox colorée** — Remplacement de CTkTextbox par un tk.Text natif supportant les couleurs.
+- **Fichiers non remplacés** — Après l'installation, les fichiers présents dans le dossier mod mais absents du ZIP sont listés en orange.
+
+### V0.6 Stable
+- **Installateur de mods** — Installation d'un mod directement depuis un fichier ZIP avec confirmation de remplacement.
+- **Ouverture de dossiers multiplateforme** — Remplacement de `os.startfile()` par `open_folder()` compatible Windows/Mac/Linux.
+- **Gestion des erreurs** — Les opérations de lecture/écriture sont maintenant correctement encadrées.
