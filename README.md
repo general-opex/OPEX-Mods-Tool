@@ -1,5 +1,9 @@
-**OPEX Mods Tool 1.4**
+**OPEX Mods Tool 1.5**
 
+
+Resizable window — The app window can now be resized freely. Minimum size is locked to the original dimensions so nothing gets cropped.
+Non-.bank file filtering — When installing a mod from a ZIP, only .bank files are extracted. Any other file type (README, images, scripts...) is ignored and listed in a warning popup so you always know what was skipped.
+Help window resizable — The "How to use" guide window is now also resizable.
 
 <img width="900" height="649" alt="Capture d&#39;écran 2026-05-15 082841" src="https://github.com/user-attachments/assets/a27a2fb3-3f69-4fb4-a061-aaa34a1e82f9" />
 <img width="902" height="650" alt="Capture d&#39;écran 2026-05-15 082805" src="https://github.com/user-attachments/assets/efb470a0-aea1-49fd-855f-7357796a4359" />
