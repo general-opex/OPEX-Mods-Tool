@@ -4,6 +4,14 @@
 
 ## 🇬🇧 ENGLISH
 
+##V1.6 Stable
+- **Full UI framework rewrite
+  The interface moves from customtkinter to PyQt6 — a more robust framework with better native Windows 11 rendering and improved font and style handling.
+- **New styling system
+  The entire design is now managed through a QSS stylesheet (CSS equivalent for Qt), making future visual changes much easier.
+- **Native Qt dropdown menus
+  The Language and Download menus now use native Qt QMenu, more stable than the previous custom menus.
+
 ### V1.5 Stable
 - **Resizable window** — The app window can now be resized freely. Minimum size is locked to the original dimensions so nothing gets cropped.
 - **Non-.bank file filtering** — When installing a mod from a ZIP, only `.bank` files are extracted. Any other file type (README, images, scripts...) is ignored and listed in a warning popup so you always know what was skipped.
@@ -49,51 +57,4 @@
 - **Cross-platform folder opening** — Replaced `os.startfile()` with platform-aware `open_folder()`.
 - **Error handling** — File read/write operations now properly handled with try/except.
 
----
 
-## 🇫🇷 FRANÇAIS
-
-### V1.5 Stable
-- **Fenêtre redimensionnable** — La fenêtre peut maintenant être agrandie librement. La taille minimale est verrouillée sur les dimensions d'origine pour éviter tout rognage.
-- **Filtrage des fichiers non-.bank** — Lors de l'installation d'un mod depuis un ZIP, seuls les fichiers `.bank` sont extraits. Tout autre type de fichier (README, images, scripts...) est ignoré et listé dans une popup d'avertissement.
-- **Fenêtre d'aide redimensionnable** — La fenêtre "Comment utiliser" est également redimensionnable.
-
-### V1.4 Stable
-- **Config dans %APPDATA%** — Le fichier `config.json` est maintenant stocké dans `%APPDATA%\OPEXModsTool\`. Corrige les erreurs de permissions sur les installations protégées (Program Files, etc.).
-
-### V1.3 Stable
-- **Menu déroulant des langues** — Le bouton EN/FR est remplacé par un menu déroulant stylisé (`🌐 Language ▾`). Prêt pour l'ajout de nouvelles langues.
-- **Menus déroulants custom** — Les menus Langue et Téléchargement utilisent désormais un menu entièrement personnalisé au style Windows 11 sombre.
-
-### V1.2 Stable
-- **Dossier UserSights** — Nouveau bouton pour ouvrir le dossier `UserSights`. Au premier clic, l'app explique le chemin et demande de le localiser manuellement. Le chemin est ensuite sauvegardé automatiquement.
-- **Langue mémorisée** — L'app retient désormais la langue choisie entre les sessions.
-- **Guide d'utilisation** — Guide intégré qui s'ouvre automatiquement au premier lancement. Accessible via le bouton `?`. Inclut une case "Ne plus afficher".
-
-### V1.1 Stable
-- **Logos partenaires** — Logos War Thunder et FMOD affichés en bas de la sidebar.
-- **Icônes sociales** — Icônes YouTube, Discord et Patreon ajoutées sous le logo (sans fond, basées sur des images PNG).
-- **Confirmation d'installation** — Une popup de confirmation apparaît avant l'extraction d'un mod ZIP.
-
-### V1.0 Stable
-- **Supprimer tous les mods & config** — Bouton unique pour supprimer le dossier mod et désactiver `enable_mod:b=yes` simultanément.
-- **Thème Windows 11 sombre** — Refonte complète de l'interface avec les couleurs Windows 11 et l'accent bleu (`#0078d4`).
-- **Barre de progression** — Indicateur visuel pendant l'installation d'un mod.
-- **Log coloré** — La textbox affiche désormais des messages en vert (✔), orange (⚠) et rouge (❌).
-
-### V0.9 Stable
-- **Menu de téléchargement** — Menu déroulant avec liens directs vers OPEX Mod, Crew Pack FR, Crew Pack US, Crew Pack DE.
-- **Boutons sociaux** — Boutons texte YouTube, Discord, Patreon ajoutés dans la sidebar.
-
-### V0.8 Stable
-- **Labels de sections** — En-têtes DOSSIER, CONFIG.BLK et LOG ajoutés dans le panneau principal.
-- **Barre de statut** — Numéro de version et statut affichés en bas de la fenêtre.
-
-### V0.7 Stable
-- **Textbox colorée** — Remplacement de CTkTextbox par un tk.Text natif supportant les couleurs.
-- **Fichiers non remplacés** — Après l'installation, les fichiers présents dans le dossier mod mais absents du ZIP sont listés en orange.
-
-### V0.6 Stable
-- **Installateur de mods** — Installation d'un mod directement depuis un fichier ZIP avec confirmation de remplacement.
-- **Ouverture de dossiers multiplateforme** — Remplacement de `os.startfile()` par `open_folder()` compatible Windows/Mac/Linux.
-- **Gestion des erreurs** — Les opérations de lecture/écriture sont maintenant correctement encadrées.
