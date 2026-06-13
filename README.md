@@ -7,8 +7,10 @@
   The Language and Download menus now use native Qt QMenu, more stable than the previous custom menus.
 
 
-<img width="900" height="649" alt="Capture d&#39;écran 2026-05-15 082841" src="https://github.com/user-attachments/assets/a27a2fb3-3f69-4fb4-a061-aaa34a1e82f9" />
-<img width="902" height="650" alt="Capture d&#39;écran 2026-05-15 082805" src="https://github.com/user-attachments/assets/efb470a0-aea1-49fd-855f-7357796a4359" />
+<img width="898" height="651" alt="Capture d&#39;écran 2026-06-13 082637" src="https://github.com/user-attachments/assets/6591679d-bc09-4216-b8b4-dcbed4c6d75e" />
+<img width="898" height="650" alt="Capture d&#39;écran 2026-06-13 082733" src="https://github.com/user-attachments/assets/81da10ff-c55c-4e97-ad9e-ce80fac13ba2" />
+
+
 
 
 ## 🇬🇧 ENGLISH
