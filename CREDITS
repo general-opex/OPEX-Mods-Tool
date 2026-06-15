@@ -1,0 +1,6 @@
+OPEX Mods Tool — by [votre nom]
+
+This software uses the following open source libraries:
+- PySide6 (LGPL v3) — https://www.qt.io/licensing/
+- Python (PSF License) — https://www.python.org/
+- PyInstaller (GPL + Bootloader Exception) — https://pyinstaller.org/
