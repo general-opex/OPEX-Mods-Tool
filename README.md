@@ -1,4 +1,4 @@
----
+## 📋 Changelog
 
 ### V1.7 Stable
 
