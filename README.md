@@ -1,10 +1,24 @@
-##V1.6 Stable
-- **Full UI framework rewrite
-  The interface moves from customtkinter to PyQt6 — a more robust framework with better native Windows 11 rendering and improved font and style handling.
-- **New styling system
-  The entire design is now managed through a QSS stylesheet (CSS equivalent for Qt), making future visual changes much easier.
-- **Native Qt dropdown menus
-  The Language and Download menus now use native Qt QMenu, more stable than the previous custom menus.
+---
+
+### V1.7 Stable
+
+**⚖️ Migration PyQt6 → PySide6**
+The framework has been switched from PyQt6 to PySide6. Both are based on the same Qt technology and the interface is identical — this change is purely legal.
+
+PyQt6 is licensed under **GPL v3**, which requires publishing the source code when distributing the application. PySide6 uses the **LGPL v3** license, which allows distributing the `.exe` freely on GitHub without any obligation to publish the source code.
+
+The only requirement is to mention PySide6 in a `CREDITS.txt` file included with the release.
+
+---
+
+**EN/FR 🇫🇷**
+
+**⚖️ Migration PyQt6 → PySide6**
+Le framework passe de PyQt6 à PySide6. Les deux sont basés sur la même technologie Qt et l'interface est strictement identique — ce changement est purement juridique.
+
+PyQt6 est sous licence **GPL v3**, ce qui oblige à publier le code source lors de la distribution de l'application. PySide6 utilise la licence **LGPL v3**, qui permet de distribuer le `.exe` librement sur GitHub sans aucune obligation de publier le code source.
+
+La seule obligation est de mentionner PySide6 dans un fichier `CREDITS.txt` inclus dans la release.
 
 
 <img width="898" height="651" alt="Capture d&#39;écran 2026-06-13 082637" src="https://github.com/user-attachments/assets/6591679d-bc09-4216-b8b4-dcbed4c6d75e" />
