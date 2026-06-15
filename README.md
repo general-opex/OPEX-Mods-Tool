@@ -2,7 +2,7 @@
 
 ### V1.7 Stable
 
-**⚖️ Migration PyQt6 → PySide6**
+** Migration PyQt6 → PySide6**
 The framework has been switched from PyQt6 to PySide6. Both are based on the same Qt technology and the interface is identical — this change is purely legal.
 
 PyQt6 is licensed under **GPL v3**, which requires publishing the source code when distributing the application. PySide6 uses the **LGPL v3** license, which allows distributing the `.exe` freely on GitHub without any obligation to publish the source code.
@@ -13,7 +13,7 @@ The only requirement is to mention PySide6 in a `CREDITS.txt` file included with
 
 **EN/FR 🇫🇷**
 
-**⚖️ Migration PyQt6 → PySide6**
+** Migration PyQt6 → PySide6**
 Le framework passe de PyQt6 à PySide6. Les deux sont basés sur la même technologie Qt et l'interface est strictement identique — ce changement est purement juridique.
 
 PyQt6 est sous licence **GPL v3**, ce qui oblige à publier le code source lors de la distribution de l'application. PySide6 utilise la licence **LGPL v3**, qui permet de distribuer le `.exe` librement sur GitHub sans aucune obligation de publier le code source.
