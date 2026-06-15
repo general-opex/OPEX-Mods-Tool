@@ -7,7 +7,7 @@ The framework has been switched from PyQt6 to PySide6. Both are based on the sam
 
 PyQt6 is licensed under **GPL v3**, which requires publishing the source code when distributing the application. PySide6 uses the **LGPL v3** license, which allows distributing the `.exe` freely on GitHub without any obligation to publish the source code.
 
-The only requirement is to mention PySide6 in a `CREDITS.txt` file included with the release.
+The only requirement is to mention PySide6 in a CREDIT file included with the release.
 
 ---
 
