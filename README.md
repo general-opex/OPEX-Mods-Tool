@@ -1,6 +1,6 @@
 ## 📋 Changelog
 
-🇬🇧 V1.8 Stable
+### V1.8 Stable
 🐛 Bug fix — enable_mod:b=yes duplication
 When adding enable_mod:b=yes to config.blk, the line was incorrectly duplicated if it already existed. This is now fixed — the existing line is kept as-is without adding another one.
 🔍 New — Conflict checker
