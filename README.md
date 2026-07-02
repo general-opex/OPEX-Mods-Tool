@@ -32,8 +32,8 @@ PyQt6 est sous licence **GPL v3**, ce qui oblige à publier le code source lors 
 La seule obligation est de mentionner PySide6 dans un fichier `CREDITS.txt` inclus dans la release.
 
 
-<img width="898" height="651" alt="Capture d&#39;écran 2026-06-13 082637" src="https://github.com/user-attachments/assets/6591679d-bc09-4216-b8b4-dcbed4c6d75e" />
-<img width="898" height="650" alt="Capture d&#39;écran 2026-06-13 082733" src="https://github.com/user-attachments/assets/81da10ff-c55c-4e97-ad9e-ce80fac13ba2" />
+<img width="899" height="650" alt="Capture d’écran 2026-07-02 194336" src="https://github.com/user-attachments/assets/b1f19f47-5b1a-48ea-bcd1-bb4aedacf273" />
+
 
 
 
