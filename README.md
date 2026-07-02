@@ -1,5 +1,16 @@
 ## 📋 Changelog
 
+🇬🇧 V1.8 Stable
+🐛 Bug fix — enable_mod:b=yes duplication
+When adding enable_mod:b=yes to config.blk, the line was incorrectly duplicated if it already existed. This is now fixed — the existing line is kept as-is without adding another one.
+🔍 New — Conflict checker
+New "Check conflicts" button in the CONFIG.BLK section. It detects the following lines that are known to conflict with OPEX Mod and offers to remove them:
+
+useloopsForGunSound:b=yes
+useloopsForGunSound:b=no
+useLoopsForGMGunSound:b=yes
+useLoopsForGMGunSound:b=no
+
 ### V1.7 Stable
 
 ** Migration PyQt6 -> PySide6**
