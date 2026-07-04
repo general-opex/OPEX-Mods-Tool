@@ -1,4 +1,13 @@
 ## 📋 Changelog
+🇬🇧 V1.9 Stable
+
+🔍 “Verify OPEX System are ready” button
+New single button that checks everything in one click:
+
+	•	Detects and deletes non-OPEX .bank files from the mod folder
+	•	Detects and removes conflicting useLoops lines from config.blk
+	•	If nothing is found → ✔ OPEX system is ready
+
 
 ### V1.8 Stable
 🐛 Bug fix — enable_mod:b=yes duplication
