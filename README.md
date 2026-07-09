@@ -1,5 +1,13 @@
 ## 📋 Changelog
 
+ ### V2.0 Stable
+
+▶ Launch War Thunder
+New "▶ Launch War Thunder" button added in the sidebar. Launches launcher.exe directly  in one click. Displays an error message if the executable is not found.
+
+ Userskins folder auto-creation
+When clicking "Open Userskins Folder", if the folder doesn't exist the tool now offers to create it automatically instead of just showing an error
+
 ### V1.9 Stable
 🔍 "Verify OPEX System are ready" button
 New single button that checks everything in one click:
@@ -40,7 +48,8 @@ PyQt6 est sous licence **GPL v3**, ce qui oblige à publier le code source lors 
 La seule obligation est de mentionner PySide6 dans un fichier `CREDITS.txt` inclus dans la release.
 
 
-<img width="899" height="650" alt="Capture d’écran 2026-07-02 194336" src="https://github.com/user-attachments/assets/b1f19f47-5b1a-48ea-bcd1-bb4aedacf273" />
+<img width="902" height="651" alt="Capture d&#39;écran 2026-07-08 173717" src="https://github.com/user-attachments/assets/2b94e0fb-b3bf-48fa-bdff-0eea3b127418" />
+
 
 
 
